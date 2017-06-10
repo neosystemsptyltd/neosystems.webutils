@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>neosystems.webtools</id>
+    <version>0.0.1-alpha</version>
+    <title>NeoSystems.WebTools</title>
+    <authors>armand</authors>
+    <owners>armand</owners>
+    <licenseUrl>https://www.gnu.org/licenses/lgpl-3.0.en.html</licenseUrl>
+    <projectUrl>https://github.com/neosystemsptyltd/neosystems.webutils</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Neo Systems .NET Web utilities</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>web utils</tags>
+  </metadata>
+</package>
